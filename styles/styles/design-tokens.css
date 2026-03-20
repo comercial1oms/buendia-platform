@@ -1,0 +1,29 @@
+/* BUEN DIA FRESH - Design Tokens v1.0 */
+:root {
+  --color-verde-oscuro: #004C45;
+  --color-verde-claro: #00B373;
+  --color-celeste-oscuro: #009CDE;
+  --color-celeste-claro: #5BC2E7;
+  --color-rojo: #F4364C;
+  --color-naranja: #FF6A39;
+  --color-rosa-fuerte: #F04E98;
+  --color-rosa-suave: #E59BDC;
+  --color-amarillo: #FDD757;
+  --color-beige: #F5E1A4;
+  --color-beige-claro: #FFFEF2;
+  --color-blanco: #FFFFFF;
+  --bg-principal: #004C45;
+  --texto-principal: #FFFFFF;
+  --bg-secundario: #FFFEF2;
+  --texto-secundario: #004C45;
+  --bg-acento: #00B373;
+  --texto-acento: #FFFFFF;
+  --font-principal: 'Castledown', sans-serif;
+  --font-secundaria: 'Basis Grotesque', sans-serif;
+  --space-1: 4px; --space-2: 8px; --space-3: 12px;
+  --space-4: 16px; --space-6: 24px; --space-8: 32px;
+  --radius-sm: 6px; --radius-md: 10px; --radius-lg: 16px;
+  --radius-pill: 9999px;
+  --shadow-sm: 0 1px 3px rgba(0,76,69,0.08);
+  --shadow-md: 0 4px 12px rgba(0,76,69,0.12);
+}
